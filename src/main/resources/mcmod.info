@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mcscp",
+  "name": "MCSCP",
+  "description": "Minecraft mod based on the SCP universe",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/emeric1601/mcscp",
+  "updateUrl": "",
+  "authorList": ["emeric1601", "vinceh121"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
